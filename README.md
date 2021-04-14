@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumiyamathur
 - 🌱 I’m currently learning Data modelling and Visualization with Python ...
-- 📫 How to reach me ...
+- 📫 Reach me @ soumiya.mathur@gmail.com
 
 <!---
 soumiyamathur/soumiyamathur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
